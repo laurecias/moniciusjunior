@@ -45,6 +45,8 @@ header nav ul li a:hover {
     justify-content: space-between;
     align-items: center;
     padding: 20px;
+    flex-direction: column;
+    text-align: center;
 }
 
 .content {
@@ -120,4 +122,12 @@ button:hover {
 footer{
     align-items: center;
     background-color: #1d0a11;
+}
+
+@media screen and (min-width:1024px) {
+    .container {
+        flex-direction: row;
+    text-align: start;
+    }
+    
 }
