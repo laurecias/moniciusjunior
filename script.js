@@ -1,3 +1,3 @@
 function saibaMais() {
-    alert("Mais informações em breve!")
-};
+    alert("Mais informações em breve!");
+}
