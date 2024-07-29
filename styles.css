@@ -3,32 +3,7 @@ body {
     font-family: Arial, sans-serif;
     background-color: #4a1c2d;
     color: #f0e7e4;
-
-    font-family: Arial, sans-serif;
-            background-image: url('background.jpg'); /* Substitua 'background.jpg' pela imagem de fundo desejada */
-            background-size: cover;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            color: #fff;
-        }
-        .contact-container {
-            background-color: rgba(0, 0, 0, 0.7);
-            padding: 20px;
-            border-radius: 10px;
-            width: 400px;
-            text-align: center;
-        }
-        .contact-container h1 {
-            font-size: 2em;
-            margin-bottom: 10px;
-        }
-        .contact-container p {
-            margin: 10px 0;
-        }
+}
 
 header {
     display: flex;
